@@ -1,0 +1,18 @@
+.nav{
+  background-color: rgb(94, 8, 175);
+}
+.navlik{
+  
+ text-decoration: none;
+ color: aliceblue;
+ padding: 6px;
+ margin-right: 10px;
+ font-weight: 600;
+font-size: 20px;
+}
+.navlik:hover{ 
+  font-size: 22px;
+color: white;
+
+}
+.navlik.active{ color: rgb(30, 255, 0);}
